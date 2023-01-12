@@ -1,0 +1,20 @@
+{
+  // ファイル保存時の自動フォーマット設定
+  "editor.formatOnSave": true,
+  // ペースト時の自動フォーマット設定
+  "editor.formatOnPaste": true,
+  // 自動生成ファイルの非表示
+  "files.exclude": {
+    "**/*.freezed.dart": true,
+    "**/*.g.dart": true
+  },
+  // 拡張子が[.dart]のファイルに関する設定
+  "[dart]": {
+    // 行折り返しのガイド表示
+    "editor.rulers": [100]
+  },
+  // フォーマッターでの行折り返し長さ
+  "dart.lineLength": 100,
+  // ファイル保存時のホットリロード設定
+  "dart.flutterHotReloadOnSave": "always"
+}

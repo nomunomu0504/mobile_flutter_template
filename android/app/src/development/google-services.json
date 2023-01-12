@@ -1,0 +1,37 @@
+{
+  "project_info": {
+    "project_number": "dummy_number",
+    "project_id": "dummy_id",
+    "storage_bucket": "dummy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "",
+        "android_client_info": {
+          "package_name": "com.example.flutter_template.development"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "dummy_key"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "dummy_id",
+              "client_type": 3
+            },
+            {
+              "client_id": "dummy_id",
+              "client_type": 2
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

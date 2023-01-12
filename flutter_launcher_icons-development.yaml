@@ -1,0 +1,8 @@
+# flutter_launcher_icons-development.yaml
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/app_icon_dev.png"
+  remove_alpha_ios: true
+  min_sdk_android: 21

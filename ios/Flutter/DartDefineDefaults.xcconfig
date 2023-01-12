@@ -1,0 +1,2 @@
+FLAVOR=development
+DEFINE_BUNDLE_ID_SUFFIX=.development
